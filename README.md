@@ -1,2 +1,6 @@
-# LeetCode-reponameWIP
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# LeetCode
+
+My latest (and presumably best) solutions to problems on LeetCode.
+
+Synced periodically using [leetcode-sync](https://github.com/joshcai/leetcode-sync).
+
